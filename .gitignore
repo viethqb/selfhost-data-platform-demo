@@ -187,5 +187,5 @@ metastore_db
 warehouse
 notebooks
 !spark/notebooks
-data/*
+data/
 .vscode
