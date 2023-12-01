@@ -38,6 +38,6 @@ minio url: http://localhost:9000/
 ### Refer
 
 ```
-https://efficacious-branch-d9e.notion.site/Viet_1846-s-Notes-35741d55a0ab4a97bc74e9430310711b?pvs=4
+https://bit.ly/viet1846
 https://blog.devgenius.io/modern-data-stack-demo-5d75dcdfba50
 ```
